@@ -1,0 +1,28 @@
+html{
+    background-image: url(Form-Background.jpg);
+    background-size: cover;
+}
+body{
+    display: inline-block;
+    text-align: center;
+    padding: 10px;
+    margin-left: 50%;
+ line-height: 20%;
+}
+form{
+   display: inline-block;
+text-align: center;
+color: rgb(238, 120, 120);
+}
+p{
+    color: royalblue;
+    font-weight: bold;
+}
+input{
+    background-color: rgb(196, 237, 245);
+    text-align: justify;
+}
+table{
+    text-align: center;
+   padding: inherit;
+}
